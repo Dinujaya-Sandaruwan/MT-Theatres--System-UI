@@ -1,8 +1,9 @@
-# Millennium Theatres Sales Information System
+![screencapture-localhost-5173-2025-03-19-17_58_30](https://github.com/user-attachments/assets/6ceb729a-7690-4a00-8f75-6598ab3a11e4)# Millennium Theatres Sales Information System
 
 A modern web-based ticket sales and management solution designed for Millennium Theatres, a ticketing agency specializing in concert and theatre tickets.
 
-![Event Management Dashboard](https://github.com/your-username/millennium-theatres/raw/main/screenshots/event-management.png)
+![screencapture-localhost-5173-2025-03-19-16_59_22](https://github.com/user-attachments/assets/d3e382c4-1653-477f-9b5a-9196230b356d)
+
 
 ## Overview
 
@@ -53,15 +54,16 @@ This implementation follows the principles of Structured Systems Analysis and De
 
 ### Event Management
 
-![Event Management](https://github.com/your-username/millennium-theatres/raw/main/screenshots/event-management.png)
+![screencapture-localhost-5173-2025-03-19-16_59_22](https://github.com/user-attachments/assets/5e7d2360-47fe-4dcf-94e8-a5c28b5d140a)
 
 ### Reservation Management
 
-![Reservation Management](https://github.com/your-username/millennium-theatres/raw/main/screenshots/reservation-management.png)
+![screencapture-localhost-5173-2025-03-19-17_57_09](https://github.com/user-attachments/assets/c5cf92ed-1f2f-4bcc-967a-48e611f5da87)
 
 ### Invoice Generation
 
-![Invoice Generation](https://github.com/your-username/millennium-theatres/raw/main/screenshots/invoice-generation.png)
+![screencapture-localhost-5173-2025-03-19-17_58_30](https://github.com/user-attachments/assets/0d486159-83f0-4b9d-9092-9c026e56db8e)
+
 
 ## Installation
 
