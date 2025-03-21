@@ -69,10 +69,10 @@ This implementation follows the principles of Structured Systems Analysis and De
 
 ```bash
 # Clone the repository
-git clone https://github.com/Dinujaya-Sandaruwan/MT-Theatres--System-UI.git
+git clone https://github.com/Dinujaya-Sandaruwan/MT-Theatres-System-UI.git
 
 # Navigate to project directory
-cd millennium-theatres
+cd MT-Theatres-System-UI
 
 # Install dependencies
 npm install
