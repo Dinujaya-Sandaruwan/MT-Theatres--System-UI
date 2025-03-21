@@ -1,4 +1,4 @@
-![screencapture-localhost-5173-2025-03-19-17_58_30](https://github.com/user-attachments/assets/6ceb729a-7690-4a00-8f75-6598ab3a11e4)# Millennium Theatres Sales Information System
+# Millennium Theatres Sales Information System
 
 A modern web-based ticket sales and management solution designed for Millennium Theatres, a ticketing agency specializing in concert and theatre tickets.
 
@@ -69,7 +69,7 @@ This implementation follows the principles of Structured Systems Analysis and De
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/millennium-theatres.git
+git clone https://github.com/Dinujaya-Sandaruwan/MT-Theatres--System-UI.git
 
 # Navigate to project directory
 cd millennium-theatres
